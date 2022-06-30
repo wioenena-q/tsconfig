@@ -1,0 +1,17 @@
+{
+  "name": "@wioenena.q/tsconfig",
+  "version": "1.0.0",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+    "tslib": "^2.4.0"
+  },
+  "author": {
+    "email": "wioenena@gmail.com",
+    "name": "wioenena.q"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
